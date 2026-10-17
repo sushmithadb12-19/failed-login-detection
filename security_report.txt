@@ -1,0 +1,21 @@
+===== SECURITY ANALYSIS REPORT =====
+Total records analyzed: 9
+Total failed attempts: 7
+
+----- IP Address Analysis -----
+
+IP Address: 192.168.1.10
+Failed attempts: 5
+ALERT: Repeated failed login attempts!
+
+IP Address: 192.168.1.30
+Failed attempts: 1
+Status: No alert
+
+IP Address: 192.168.1.20
+Failed attempts: 1
+Status: No alert
+
+----- Final Summary -----
+Suspicious IP addresses: 1
+Analysis completed.
